@@ -19,13 +19,13 @@ It contains different product lisitings along with their price ans qr codes for 
 <br>
 
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/4d0d31d7-0c72-443a-85cf-0dacf365e264.jpg" alt="Image 1" style="width: 50%;">
-    <img src="https://github.com/user-attachments/assets/ab7b70e3-87d5-4ddb-823e-eac42e6d5095.jpg" alt="Image 1" style="width: 50%;">
+    <img src="https://github.com/user-attachments/assets/4d0d31d7-0c72-443a-85cf-0dacf365e264" alt="Image 1" style="width: 50%;">
+    <img src="https://github.com/user-attachments/assets/ab7b70e3-87d5-4ddb-823e-eac42e6d5095" alt="Image 2" style="width: 50%;">
 </div>
 
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/2ef0ecd7-4ad8-47ef-8f69-9f283197528d.jpg" alt="Image 2" style="width: 50%;">
-    <img src="https://github.com/user-attachments/assets/4d3b5f3e-8b74-4a27-92bb-91fb5443413d.jpg" alt="Image 2" style="width: 50%;">
+    <img src="https://github.com/user-attachments/assets/2ef0ecd7-4ad8-47ef-8f69-9f283197528d" alt="Image 3" style="width: 50%;">
+    <img src="https://github.com/user-attachments/assets/4d3b5f3e-8b74-4a27-92bb-91fb5443413d" alt="Image 4" style="width: 50%;">
 </div>
 
 
