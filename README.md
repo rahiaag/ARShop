@@ -19,8 +19,8 @@ It contains different product lisitings along with their price ans qr codes for 
 <br>
 
 <div style="display: flex;">
-    <img src="https://github.com/user-attachments/assets/4d0d31d7-0c72-443a-85cf-0dacf365e264" alt="Image 1" style="width: 50%;">
-    <img src="https://github.com/user-attachments/assets/ab7b70e3-87d5-4ddb-823e-eac42e6d5095" alt="Image 2" style="width: 50%;">
+    <img src="https://github.com/user-attachments/assets/4d0d31d7-0c72-443a-85cf-0dacf365e264" alt="Image 1" style="width: 30%;">
+    <img src="https://github.com/user-attachments/assets/ab7b70e3-87d5-4ddb-823e-eac42e6d5095" alt="Image 2" style="width: 30%;">
 </div>
 
 <div style="display: flex;">
