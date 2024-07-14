@@ -4,15 +4,17 @@ https://rahiaag.github.io/ARShop/
 
 This repository contains the codebase for an augmented reality (AR) integrated Ecommerce website. The integration of AR technology enhances the user experience by allowing customers to visualize products in their real-world environment before making a purchase decision.
 
-### **HOMEPAGE:**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### **HOMEPAGE :**  
 #### It contains different product lisitings along with their price ans qr codes for viewing them in
+
 <br>
 
 
 ![image](https://github.com/user-attachments/assets/fbc4971a-122a-45f7-a115-8cd942d2a3ac)
 <br>
-<>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **FEATURED PRODUCT:**
 #### Highlights a specific product with detailed information and options for interaction.
@@ -21,6 +23,7 @@ This repository contains the codebase for an augmented reality (AR) integrated E
 
 <br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **AR VISUALIZATION:**
 #### Allows users to visualize products in augmented reality, enhancing the shopping experience.
@@ -40,22 +43,26 @@ This repository contains the codebase for an augmented reality (AR) integrated E
 
 <br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **SHOP NOW:**
 #### Directs users to explore and purchase products from the ecommerce store.
-<br><br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/fd25eabe-4d2a-43e4-a826-80599f45c4d1)
 <br>
 <br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### **BLOG PAGE:**
 #### Provides articles and updates related to products and industry trends
-<br><br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/96ef35d1-ba70-43cf-b3f2-8f13ee8b8fb7)
 <br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **ABOUT PAGE:**
 #### Offers information about the company, its mission, and values.
@@ -64,6 +71,7 @@ This repository contains the codebase for an augmented reality (AR) integrated E
 ![image](https://github.com/user-attachments/assets/37811ca5-22b2-406e-8850-e22e75df817e)
 <br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **CONTACT PAGE:**
 #### Enables users to get in touch with the company for inquiries or support.
