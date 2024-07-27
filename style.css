@@ -8,13 +8,22 @@
   font-family: 'Poppins', sans-serif;
 }
 
+:root{
+  --primary-color:#edf2fc;
+  --secondary-color:#212121;
+}
+.dark-theme{
+  --primary-color:#212121;
+  --secondary-color:white;
+}
+
 #header {
 
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 14px 80px;
-  background: #E3E6F3;
+  background: var(--primary-color);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   z-index: 999;
   position: sticky;
@@ -42,6 +51,13 @@
 }
 
 
+#icon{
+  width:30px;
+  cursor: pointer;
+  margin-left:50px;
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -54,7 +70,7 @@
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
-  color: black;
+  color: var(--secondary-color);
   transition: 0.3s ease;
   /*navbar mien jo color change ho raha hai*/
 }
@@ -120,6 +136,7 @@
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
+  background:var(--primary-color);
 }
 
 #feature .fe-box {
@@ -188,6 +205,7 @@
   justify-content: space-between;
   padding-top: 20px;
   flex-wrap: wrap;
+  background:var(--primary-color);
 }
 
 #product1 .pro {
@@ -231,7 +249,7 @@
 
 #product1 .pro .des h5 {
   padding-top: 7px;
-  color: #1a1a1a;
+  color:  var(--primary-color);
   font-size: 14px;
 }
 
@@ -291,7 +309,7 @@
 
 #banner button:hover {
   background: #088178;
-  color: #fff;
+  color: var(--primary-color);
 }
 
 #sm-banner {
@@ -429,7 +447,7 @@
 
 #newsletter button {
   background-color: #088178;
-  color: #fff;
+  color: var(--primary-color);
   white-space: nowrap;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
@@ -606,7 +624,7 @@ footer .copyright {
 
 #prodetails .single-pro-details button {
   background: #088178;
-  color: #fff;
+  color:var(--primary-color);
 }
 
 #prodetails .single-pro-details span {
@@ -649,7 +667,7 @@ footer .copyright {
 #blog .blog-details a {
   text-decoration: none;
   font-size: 11px;
-  color: #000;
+  color: var(--secondary-color);
   font-weight: 700;
 }
 
@@ -786,13 +804,13 @@ footer .copyright {
   display: block;
   font-size: 16px;
   font-weight: 600;
-  color: #000;
+  color: var(--secondary-color);
 }
 
 
 #form-details form button {
   background-color: #088178;
-  color: #fff;
+  color: var(--primary-color);
 }
 
 #form-details .people div {
@@ -907,7 +925,7 @@ footer .copyright {
 #coupon button,
 #subtotal button {
   background-color: #088178;
-  color: #fff;
+  color:var(--primary-color);
   padding: 12px 20px;
 }
 
@@ -972,7 +990,7 @@ footer .copyright {
   }
 
   #mobile i {
-    color: #1a1a1a;
+    color: var(--secondary-color);
     font-size: 24px;
     padding-left: 20px;
   }
@@ -982,7 +1000,7 @@ footer .copyright {
     position: absolute;
     top: 30px;
     left: 30px;
-    color: #222;
+    color: var(--secondary-color);
     font-size: 24px;
   }
 
@@ -998,14 +1016,17 @@ footer .copyright {
 
   #feature {
     justify-content: center;
+    background:var(--primary-color);
   }
 
   #feature .fe-box {
     margin: 15px 15px;
+    background:var(--primary-color);
   }
 
   #product1 .pro-container {
     justify-content: center;
+    background:var(--primary-color);
   }
 
   #product1 .pro {
@@ -1038,6 +1059,7 @@ footer .copyright {
 
   .section-p1 {
     padding: 20px;
+    background:var(--primary-color);
   }
 
   #header {
@@ -1112,18 +1134,18 @@ html {
 h1 {
   font-size: 50px;
   line-height: 64px;
-  color: #222;
+  color: var(--secondary-color);
 }
 
 h2 {
   font-size: 46px;
   line-height: 54px;
-  color: #222;
+  color: var(--secondary-color);
 }
 
 h4 {
   font-size: 20px;
-  color: #222;
+  color: var(--secondary-color);
 }
 
 h6 {
@@ -1149,8 +1171,8 @@ button.normal {
   font-size: 14px;
   font-weight: 600;
   padding: 15px 30px;
-  color: #000;
-  background-color: #fff;
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
   border-radius: 4px;
   cursor: pointer;
   border: none;
@@ -1162,7 +1184,7 @@ button.white {
   font-size: 13px;
   font-weight: 600;
   padding: 11px 18px;
-  color: #fff;
+  color: var(--primary-color);
   background-color: transparent;
   cursor: pointer;
   border: 1px solid #fff;
@@ -1252,18 +1274,18 @@ html {
 h1 {
   font-size: 50px;
   line-height: 64px;
-  color: #222;
+  color: var(--secondary-color);
 }
 
 h2 {
   font-size: 46px;
   line-height: 54px;
-  color: #222;
+  color: var(--secondary-color);
 }
 
 h4 {
   font-size: 20px;
-  color: #222;
+  color: var(--secondary-color);
 }
 
 h6 {
@@ -1289,8 +1311,8 @@ button.normal {
   font-size: 14px;
   font-weight: 600;
   padding: 15px 30px;
-  color: #000;
-  background-color: #fff;
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
   border-radius: 4px;
   cursor: pointer;
   border: none;
@@ -1302,10 +1324,10 @@ button.white {
   font-size: 13px;
   font-weight: 600;
   padding: 11px 18px;
-  color: #fff;
+  color: var(--primary-color);
   background-color: transparent;
   cursor: pointer;
-  border: 1px solid #fff;
+  border: 1px solid var(--primary-color);;
   outline: none;
   transition: 0.2s;
 }
