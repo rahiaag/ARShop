@@ -2,7 +2,7 @@ Here is the link for the site
 
 https://rahiaag.github.io/ARShop/
 
-This repository contains the codebase for an augmented reality (AR) integrated Ecommerce website. The integration of AR technology enhances the user experience by allowing customers to visualize products in their real-world environment before making a purchase decision.
+ARShop uses augmented reality technology in conjunction with built-in QR codes. By scanning QR codes with the app, users can visualize products in their real-world environment, enhancing their online shopping experience
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **HOMEPAGE :**  
